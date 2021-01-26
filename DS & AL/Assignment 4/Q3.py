@@ -1,6 +1,3 @@
-# Python 3 program to find the middle of a 
-# given linked list 
-
 class Node: 
 	def __init__(self, value): 
 		self.data = value 
@@ -41,4 +38,4 @@ llist.push(100)
 llist.push(15) 
 llist.push(35) 
 llist.printMiddle() 
-# code has been contributed by - Yogesh Joshi 
+
